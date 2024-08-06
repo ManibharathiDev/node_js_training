@@ -1,0 +1,15 @@
+{
+  "name": "crud_mysql",
+  "version": "1.0.0",
+  "description": "MySQL CRUD Operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_crud"
+  },
+  "keywords": [
+    "mysql",
+    "crud"
+  ],
+  "author": "Manibharathi",
+  "license": "ISC"
+}
