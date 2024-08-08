@@ -1,0 +1,19 @@
+{
+  "name": "express_example",
+  "version": "1.0.0",
+  "description": "Express Example HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_express"
+  },
+  "keywords": [
+    "Express",
+    "http"
+  ],
+  "author": "Manibharathi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}

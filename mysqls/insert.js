@@ -16,3 +16,4 @@ con.connect(function(err) {
     console.log("1 record inserted");
   });
 });
+
